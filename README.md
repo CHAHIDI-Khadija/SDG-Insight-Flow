@@ -1,7 +1,7 @@
 # SDGs_Analytics
 ![image](https://github.com/user-attachments/assets/7a4bffc0-477f-4386-968f-1b600b098a54)
 
-## 1. Project Overciew
+## 1. Project Overview
 The SDGs Data Analysis Project focuses on analyzing data related to the United Nations' Sustainable Development Goals (SDGs), specifically SDG 3 (Good Health and Well-being) and SDG 11 (Sustainable Cities and Communities). 
 In this project we extracted, transformed, and visualized data to provide insights and progress toward these goals
 
