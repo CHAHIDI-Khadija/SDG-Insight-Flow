@@ -16,7 +16,7 @@ link to the website : https://www.elsevier.com/products/scopus/search
 -- Extracted data from Scopus, a comprehensive database of academic papers and research articles.
 ### ⚙️ Data Transformation (Python)
 
--- Used Python to repare and transform the raw data into a structured format suitable for storage in the data warehouse.
+-- Used Python to prepare and transform the raw data into a structured format suitable for storage in the data warehouse.
 ### 📥 Data Loading
 
 -- Used Postgresql as Datawarehouse to load the refined data efficiently.
@@ -24,7 +24,7 @@ link to the website : https://www.elsevier.com/products/scopus/search
 ![image](https://github.com/user-attachments/assets/126329c2-e897-4b33-acc0-8024fd7850af)
 
 ### 📊 Data Reporting
--- Connected Microsoft Power BI to Postgresqlto create interactive and insightful data visualizations.
+-- Connected Microsoft Power BI to Postgresql to create interactive and insightful data visualizations.
 
 - for ODD 3
   
