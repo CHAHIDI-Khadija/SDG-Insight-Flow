@@ -10,7 +10,6 @@ The data used for this project was sourced from Scopus, covering publications, a
 link to the website : https://www.elsevier.com/products/scopus/search
 
 ## 3. Project Flow
-
 ![image](https://github.com/user-attachments/assets/d1925c67-7743-4605-b936-c5f291eab74f)
 ### 📤 Data Source
 
@@ -21,6 +20,7 @@ link to the website : https://www.elsevier.com/products/scopus/search
 ### 📥 Data Loading
 
 -- Used Postgresql as Datawarehouse to load the refined data efficiently.
+
 ![image](https://github.com/user-attachments/assets/126329c2-e897-4b33-acc0-8024fd7850af)
 
 ### 📊 Data Reporting
